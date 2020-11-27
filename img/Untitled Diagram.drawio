@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T07:16:37.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Rgsple-lW9fUbZknl0AR" version="13.10.4" type="github"><diagram id="fFRvy2rTR1fmxPGuhtKJ" name="Page-1">zZNNT8QgEIZ/DcdNttS0u9d2V714aqLRG5axYGipLLWtv14q069sNtHDJp6AZz6YeRlImJbdnWG1eNAcFKFb3pHwQCgN6M3OLQPpPYlo5EFhJEenGWTyCxBukTaSw2nlaLVWVtZrmOuqgtyuGDNGt2u3N63Wt9asgDOQ5Uyd0yfJrfB0R+OZ34MsxHhzEO29pWSjM3ZyEozrdoHCIwlTo7X1u7JLQQ3ijbr4uNsL1qkwA5X9TcDLe5Ey+bw55DKuPvbJY5K8bjDLJ1MNNozF2n5UwOim4jAkCUiYtEJayGqWD9bWvbljwpYKzZgOjIXuYp3B1L0bG9AlWNM7FwygMQrWjzOE53bWf2JioX2EjOGTF1PqWRW3QWH+IBL9/yLRK4rkjvOU/tgWfz08fgM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-27T07:24:56.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="g-V-gegEwBH21MhTSsq3" version="13.10.4" type="github">
+  <diagram id="fFRvy2rTR1fmxPGuhtKJ" name="Page-1">
+    <mxGraphModel dx="1248" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zMgPgPVvPRHiFtruQGBv-1" value="应用程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="50" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zMgPgPVvPRHiFtruQGBv-2" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177.5" y="152" as="sourcePoint" />
+            <mxPoint x="586.5" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zMgPgPVvPRHiFtruQGBv-3" value="客户端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="176" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zMgPgPVvPRHiFtruQGBv-4" value="I2C驱动设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="186" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zMgPgPVvPRHiFtruQGBv-5" value="i2c_dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="186" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zMgPgPVvPRHiFtruQGBv-7" value="I2C核心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243.5" y="279" width="277" height="47" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
